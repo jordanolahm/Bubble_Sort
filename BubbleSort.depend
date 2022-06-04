@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1506894318 source:c:\users\nikra\desktop\pcd\bubblesort\bubblesort.c
+	<stdio.h>
+	"BubbleSort.h"
+
+1506894318 c:\users\nikra\desktop\pcd\bubblesort\bubblesort.h
+	"ListaDinamica.h"
+
+1506890004 c:\users\nikra\desktop\pcd\bubblesort\listadinamica.h
+
+1506894251 source:c:\users\nikra\desktop\pcd\bubblesort\listadinamica.c
+	<stdlib.h>
+	"ListaDinamica.h"
+
+1506894318 source:c:\users\aluno\downloads\pcd\pcd\bubblesort\bubblesort.c
+	<stdio.h>
+	"BubbleSort.h"
+
+1506894318 c:\users\aluno\downloads\pcd\pcd\bubblesort\bubblesort.h
+	"ListaDinamica.h"
+
+1506890004 c:\users\aluno\downloads\pcd\pcd\bubblesort\listadinamica.h
+
+1506894251 source:c:\users\aluno\downloads\pcd\pcd\bubblesort\listadinamica.c
+	<stdlib.h>
+	"ListaDinamica.h"
+
+1506970639 source:c:\users\aluno\downloads\pcd\pcd\bubblesort\calculatempo.c
+	<stdio.h>
+	<windows.h>
+	"ListaDinamica.h"
+
+1506970841 source:c:\users\aluno\downloads\pcd\pcd\bubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BubbleSort.h"
+	"CalculaTempo.h"
+
+1506970586 c:\users\aluno\downloads\pcd\pcd\bubblesort\calculatempo.h
+
